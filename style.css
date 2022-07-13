@@ -1,0 +1,100 @@
+body {
+    background-color: #17213A;
+}
+/* Main:
+Total width: 785px
+Total height: 962px
+*/
+main{
+    background-color: #1d2945;
+    color: white;
+    margin-left: 25.4375%;
+    margin-right: 25.4375%;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    padding-bottom: 3%;
+    font-family: Helvetica;
+    border: 0cm;
+    border-radius: 15px;
+}
+/* Top right corner */
+.login{
+    margin-right: 6.5%;
+    margin-top: 5.5%;
+    padding-top: 5.5%;
+    text-align: right;
+}
+
+a.login{
+    color: #DC768C;
+    text-decoration: none;
+}
+a.login:hover{
+    color: #FC768C;
+}
+/* Section */
+section .content{
+    text-align: center;
+    margin-left: 25.5%;
+    margin-right: 25.5%;
+    margin-top: 70px;
+}
+
+section h3.content{
+    font-size: 26px;
+    margin-left: 10.5%;
+    margin-right: 10.5%;
+}
+
+section p.content{
+    margin-top: 20px;
+    font-weight: 400;
+    color: hsla(0, 100%, 100%, 0.8);
+}
+/* Article */
+article .content{
+    margin-left: 25.5%;
+    margin-right: 25.5%;
+    margin-bottom: 5px;
+    width: 49.05%;
+}
+article p.content{
+    font-weight: 600;
+}
+article input.content{
+    background-color: inherit;
+    border: #4C5C8A solid 1px;
+    border-radius: 2px;
+    color: white;
+    padding: 2%;
+}
+article button.content{
+    width: 53%;
+    padding: 2%;
+    margin-top: 2%;
+    background-color: #DC768C;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+}
+article button.content:hover{
+    background-color: #FC768C;
+}
+/* Footer */
+footer{
+    margin-left: 12.9%;
+    margin-right: 12.9%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 35px;
+    text-align: center;
+    background-color: #202e4e;
+    color: #8494AC;
+}
+footer a.legal{
+    text-decoration: none;
+    color: #DC768C;
+}
+footer a.legal:hover{
+    color: #FC768C;
+}
